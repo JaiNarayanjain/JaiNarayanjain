@@ -1,16 +1,16 @@
 # Jai Narayan Jain
 
-Hi , I am a passionate self-taught Data Engineer.I love solving problems.
+Hi, I am a passionate self-taught Data Engineer. I love solving problems.
 I take great care in the experience, architecture, and code quality of the things I build.
 
 
-## Languages:
+## Languages: -
 
 - > SQL
 - > Python
 - > JAVA
 
-## Software I worked on:
+## Softwares I worked on: -
 
 - > SSIS
 - > Talend
