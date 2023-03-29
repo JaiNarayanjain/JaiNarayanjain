@@ -15,3 +15,8 @@ I take great care in the experience, architecture, and code quality of the thing
 - > SSIS
 - > Talend
 - > Power BI
+
+## Frameworks: -
+
+- > Django
+- > Flask
