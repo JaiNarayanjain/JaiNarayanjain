@@ -8,7 +8,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 - > SQL
 - > Python
-- > JAVA
 
 ## Softwares I worked on: -
 
