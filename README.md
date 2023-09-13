@@ -1,21 +1,23 @@
-# Jai Narayan Jain
+# Hi there 👋, I am Jai Narayan Jain
 
-Hi, I am a passionate self-taught Data Engineer. I love solving problems.
-I take great care in the experience, architecture, and code quality of the things I build.
+Professional Python Web Developer
 
+<p><img src="https://komarev.com/ghpvc/?username=jainarayanajain&label=Profile%20views&color=0e75b6&style=flat" alt="jainarayanjain" /></p>
 
-## Languages: -
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainarayanjain" alt="jainarayanjain" /></a></p>
 
-- > SQL
-- > Python
+- 🔭 I’m currently working on Django and Django REST Framework.
+- 💬 Ask me about Python and SQL.
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:jainarayanjain8171@gmail.com)
+- 😄 Pronouns: he/him
 
-## Softwares I worked on: -
+### What I do?
 
-- > SSIS
-- > Talend
-- > Power BI
+    - I work with Python
+    - I play with Data
 
-## Frameworks: -
+<p><img align="left" src="https://github-readme-stats-five-steel.vercel.app/api/top-langs/?username=jainarayanjain&theme=light" alt="jainarayanjain" /></p>
 
-- > Django
-- > Flask
+<p><img align="left" src="https://github-readme-stats-five-steel.vercel.app/api?username=jainarayanjain&show_icons=true&theme=light&hide=issues&count_private=true&" alt="jainarayanjain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainarayanjain&" alt="jainarayanjain" /></p>
