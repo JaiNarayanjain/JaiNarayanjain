@@ -2,8 +2,6 @@
 
 Professional Python Web Developer
 
-<p><img src="https://komarev.com/ghpvc/?username=jainarayanajain&label=Profile%20views&color=0e75b6&style=flat" alt="jainarayanjain" /></p>
-
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainarayanjain" alt="jainarayanjain" /></a></p>
 
 - 🔭 I’m currently working on Django and Django REST Framework.
